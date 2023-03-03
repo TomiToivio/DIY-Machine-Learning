@@ -1,2 +1,2 @@
-# https-github.com-TomiToivio-Tee-Se-Itse-Data-Science-Koneoppimisopas
+# Diy Machine Learning
 A project aimnin to go deep into machine learning.
